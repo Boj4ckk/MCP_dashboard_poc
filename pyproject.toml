@@ -1,0 +1,9 @@
+[project]
+name = "mcp-app-poc"
+version="2026.0.0"
+dependencies = [
+    "duckdb>=1.5.2",
+    "fastmcp>=3.2.4",
+    "fastapi>=0.136.0",
+    "pydantic-settings>=2.14.0"
+]
