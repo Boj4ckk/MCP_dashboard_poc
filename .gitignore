@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+build/
+dist/
+*.egg
+
+# Data files
+*.db
+*.sqlite
+*.duckdb
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Pytest
+.cache/
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+# Node/npm (if any JS tooling)
+node_modules/
