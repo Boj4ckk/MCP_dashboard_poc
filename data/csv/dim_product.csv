@@ -1,0 +1,99 @@
+product_id,product_name,brand,category,subcategory,price,cost,lifecycle_status
+1,Samsung QLED QE55Q80C,Samsung,TV & Displays,QLED TV,1299.0,850.0,active
+2,"Samsung OLED S95C 65""",Samsung,TV & Displays,OLED TV,2499.0,1650.0,discontinued
+3,"Samsung Crystal UHD 50""",Samsung,TV & Displays,LED TV,499.0,310.0,active
+4,"Samsung Crystal UHD 43""",Samsung,TV & Displays,LED TV,349.0,215.0,active
+5,"LG OLED C3 55""",LG,TV & Displays,OLED TV,1499.0,990.0,active
+6,"LG OLED C3 65""",LG,TV & Displays,OLED TV,2199.0,1450.0,active
+7,"LG NanoCell 50""",LG,TV & Displays,LED TV,599.0,380.0,active
+8,"Sony Bravia XR A80L 55""",Sony,TV & Displays,OLED TV,1799.0,1190.0,active
+9,"Sony Bravia X90L 65""",Sony,TV & Displays,LED TV,1299.0,860.0,active
+10,"Philips OLED+908 65""",Philips,TV & Displays,OLED TV,2799.0,1850.0,discontinued
+11,"Philips PUS8518 50""",Philips,TV & Displays,LED TV,449.0,275.0,active
+12,"Hisense U8K 65""",Hisense,TV & Displays,QLED TV,899.0,560.0,active
+13,"Hisense A6K 43""",Hisense,TV & Displays,LED TV,349.0,215.0,discontinued
+14,"TCL C845 55""",TCL,TV & Displays,QLED TV,749.0,465.0,active
+15,"TCL S5400A 40""",TCL,TV & Displays,LED TV,299.0,185.0,active
+16,"Samsung Odyssey G7 27""",Samsung,TV & Displays,Monitor,449.0,280.0,active
+17,LG UltraGear 27GR95QE,LG,TV & Displays,Monitor,699.0,440.0,active
+18,Dell UltraSharp U2723QE,Dell,TV & Displays,Monitor,599.0,380.0,active
+19,BenQ EW2880U,BenQ,TV & Displays,Monitor,399.0,250.0,active
+20,Sony WH-1000XM5,Sony,Audio & Home Entertainment,Headphones,349.0,195.0,discontinued
+21,Bose QuietComfort 45,Bose,Audio & Home Entertainment,Headphones,329.0,185.0,active
+22,Sennheiser Momentum 4,Sennheiser,Audio & Home Entertainment,Headphones,299.0,165.0,active
+23,Audio-Technica ATH-M50xBT2,Audio-Technica,Audio & Home Entertainment,Headphones,179.0,95.0,active
+24,Apple AirPods Pro 2,Apple,Audio & Home Entertainment,Earbuds,279.0,155.0,active
+25,Samsung Galaxy Buds2 Pro,Samsung,Audio & Home Entertainment,Earbuds,199.0,110.0,active
+26,JBL Charge 5,JBL,Audio & Home Entertainment,Speaker,179.0,95.0,active
+27,Bose SoundLink Flex,Bose,Audio & Home Entertainment,Speaker,149.0,82.0,active
+28,Sonos Era 100,Sonos,Audio & Home Entertainment,Speaker,249.0,140.0,active
+29,Sonos Arc,Sonos,Audio & Home Entertainment,Soundbar,999.0,600.0,active
+30,Samsung HW-Q990C,Samsung,Audio & Home Entertainment,Soundbar,1299.0,800.0,active
+31,LG S95QR,LG,Audio & Home Entertainment,Soundbar,1099.0,680.0,active
+32,Bose Smart Soundbar 900,Bose,Audio & Home Entertainment,Soundbar,899.0,540.0,active
+33,Sony HT-A5000,Sony,Audio & Home Entertainment,Soundbar,799.0,480.0,active
+34,JBL Bar 1000,JBL,Audio & Home Entertainment,Soundbar,999.0,620.0,active
+35,Pioneer VSX-935,Pioneer,Audio & Home Entertainment,AV Receiver,699.0,420.0,active
+36,Yamaha RX-V6A,Yamaha,Audio & Home Entertainment,AV Receiver,599.0,360.0,active
+37,Samsung WW90T684DLH,Samsung,Home Appliances,Washing Machine,799.0,510.0,active
+38,Bosch WAJ28002FF,Bosch,Home Appliances,Washing Machine,699.0,445.0,active
+39,Miele WCG660,Miele,Home Appliances,Washing Machine,1399.0,880.0,active
+40,LG F4V910WTSE,LG,Home Appliances,Washing Machine,749.0,475.0,active
+41,Whirlpool FWF91496,Whirlpool,Home Appliances,Washing Machine,549.0,345.0,active
+42,Samsung RS67A8811B1,Samsung,Home Appliances,Refrigerator,1199.0,760.0,discontinued
+43,LG GSX961NSAZ,LG,Home Appliances,Refrigerator,1499.0,950.0,active
+44,Bosch KGN56XLEA,Bosch,Home Appliances,Refrigerator,899.0,570.0,active
+45,Whirlpool WQ9 E2L,Whirlpool,Home Appliances,Refrigerator,799.0,505.0,discontinued
+46,Samsung BF641FST,Samsung,Home Appliances,Oven,499.0,315.0,active
+47,Bosch HBA171ES3F,Bosch,Home Appliances,Oven,599.0,380.0,active
+48,De Longhi ECAM290.61.SB,De Longhi,Home Appliances,Coffee Machine,699.0,430.0,active
+49,Philips EP3347/90,Philips,Home Appliances,Coffee Machine,499.0,305.0,active
+50,Dyson V15 Detect,Dyson,Home Appliances,Vacuum Cleaner,749.0,470.0,active
+51,Dyson V12 Detect Slim,Dyson,Home Appliances,Vacuum Cleaner,599.0,375.0,active
+52,Rowenta RO9682EA,Rowenta,Home Appliances,Vacuum Cleaner,349.0,215.0,active
+53,Seb DO821800,Seb,Home Appliances,Air Fryer,149.0,88.0,active
+54,Moulinex EZ602D10,Moulinex,Home Appliances,Air Fryer,99.0,58.0,active
+55,"Apple MacBook Air M2 13""",Apple,Computing,Laptop,1499.0,980.0,active
+56,"Apple MacBook Pro M3 14""",Apple,Computing,Laptop,2199.0,1440.0,active
+57,Dell XPS 15 9530,Dell,Computing,Laptop,1999.0,1310.0,active
+58,"HP Spectre x360 14""",HP,Computing,Laptop,1699.0,1110.0,active
+59,Lenovo ThinkPad X1 Carbon,Lenovo,Computing,Laptop,1799.0,1175.0,active
+60,Asus ZenBook 14X OLED,Asus,Computing,Laptop,1199.0,780.0,active
+61,Acer Swift X 14,Acer,Computing,Laptop,999.0,650.0,active
+62,MSI Prestige 15,MSI,Computing,Laptop,1299.0,845.0,active
+63,Samsung Galaxy Book3 Pro,Samsung,Computing,Laptop,1599.0,1045.0,active
+64,Apple Mac Mini M2,Apple,Computing,Desktop,699.0,455.0,active
+65,"Apple iMac 24"" M3",Apple,Computing,Desktop,1599.0,1045.0,active
+66,Dell OptiPlex 7010,Dell,Computing,Desktop,899.0,585.0,active
+67,HP EliteDesk 800 G9,HP,Computing,Desktop,999.0,650.0,active
+68,Logitech MX Master 3S,Logitech,Computing,Accessories,109.0,58.0,discontinued
+69,Logitech MX Keys S,Logitech,Computing,Accessories,129.0,68.0,active
+70,Apple Magic Keyboard,Apple,Computing,Accessories,129.0,70.0,active
+71,Seagate Backup Plus 2TB,Seagate,Computing,Storage,79.0,42.0,active
+72,Samsung SSD T7 1TB,Samsung,Computing,Storage,129.0,68.0,active
+73,WD My Passport 4TB,WD,Computing,Storage,109.0,58.0,active
+74,HP LaserJet Pro M404n,HP,Computing,Printer,299.0,185.0,active
+75,Epson EcoTank ET-4850,Epson,Computing,Printer,349.0,215.0,active
+76,Apple iPhone 15 Pro 256GB,Apple,Mobile & Connected Devices,Smartphone,1329.0,870.0,active
+77,Apple iPhone 15 128GB,Apple,Mobile & Connected Devices,Smartphone,1029.0,675.0,active
+78,Samsung Galaxy S24 Ultra,Samsung,Mobile & Connected Devices,Smartphone,1349.0,885.0,active
+79,Samsung Galaxy S24,Samsung,Mobile & Connected Devices,Smartphone,899.0,590.0,active
+80,Google Pixel 8 Pro,Google,Mobile & Connected Devices,Smartphone,1099.0,720.0,active
+81,Google Pixel 8,Google,Mobile & Connected Devices,Smartphone,799.0,525.0,active
+82,Xiaomi 13T Pro,Xiaomi,Mobile & Connected Devices,Smartphone,849.0,555.0,active
+83,Xiaomi Redmi Note 13 Pro,Xiaomi,Mobile & Connected Devices,Smartphone,399.0,250.0,active
+84,OnePlus 12,OnePlus,Mobile & Connected Devices,Smartphone,899.0,590.0,active
+85,Apple Watch Series 9,Apple,Mobile & Connected Devices,Wearable,449.0,295.0,active
+86,Apple Watch Ultra 2,Apple,Mobile & Connected Devices,Wearable,899.0,590.0,active
+87,Samsung Galaxy Watch6,Samsung,Mobile & Connected Devices,Wearable,299.0,185.0,active
+88,Garmin Fenix 7,Garmin,Mobile & Connected Devices,Wearable,699.0,455.0,active
+89,Fitbit Sense 2,Fitbit,Mobile & Connected Devices,Wearable,249.0,150.0,active
+90,Samsung Galaxy Tab S9,Samsung,Mobile & Connected Devices,Tablet,849.0,555.0,discontinued
+91,Apple iPad Air 5th Gen,Apple,Mobile & Connected Devices,Tablet,819.0,535.0,active
+92,"Apple iPad Pro 12.9"" M2",Apple,Mobile & Connected Devices,Tablet,1219.0,800.0,active
+93,Amazon Echo Dot 5th Gen,Amazon,Mobile & Connected Devices,Smart Home,59.0,32.0,active
+94,Google Nest Hub 2nd Gen,Google,Mobile & Connected Devices,Smart Home,99.0,55.0,active
+95,Philips Hue Starter Kit,Philips,Mobile & Connected Devices,Smart Home,149.0,82.0,discontinued
+96,Ring Video Doorbell 4,Ring,Mobile & Connected Devices,Smart Home,199.0,115.0,active
+97,TP-Link Archer AX6000,TP-Link,Mobile & Connected Devices,Networking,299.0,180.0,active
+98,Netgear Nighthawk RAX50,Netgear,Mobile & Connected Devices,Networking,249.0,150.0,active

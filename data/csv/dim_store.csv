@@ -1,0 +1,31 @@
+store_id,store_name,city,region,country,store_type,opening_date
+1,Patissier Paris Opéra,Paris,Île-de-France,France,flagship,2015-03-01
+2,Patissier Paris La Défense,Paris,Île-de-France,France,flagship,2016-09-15
+3,Patissier Paris République,Paris,Île-de-France,France,standard,2017-04-01
+4,Patissier Boulogne-Billancourt,Boulogne-Billancourt,Île-de-France,France,standard,2018-01-10
+5,Patissier Versailles,Versailles,Île-de-France,France,standard,2019-06-01
+6,Patissier Lyon Part-Dieu,Lyon,Auvergne-Rhône-Alpes,France,flagship,2014-11-01
+7,Patissier Lyon Confluence,Lyon,Auvergne-Rhône-Alpes,France,standard,2018-03-15
+8,Patissier Villeurbanne,Villeurbanne,Auvergne-Rhône-Alpes,France,standard,2020-02-01
+9,Patissier Marseille Centre,Marseille,Provence-Alpes-Côte d'Azur,France,flagship,2015-06-01
+10,Patissier Marseille La Valentine,Marseille,Provence-Alpes-Côte d'Azur,France,standard,2019-09-01
+11,Patissier Toulouse Capitole,Toulouse,Occitanie,France,flagship,2016-01-15
+12,Patissier Toulouse Blagnac,Blagnac,Occitanie,France,standard,2020-10-01
+13,Patissier Bordeaux Mériadeck,Bordeaux,Nouvelle-Aquitaine,France,flagship,2016-05-01
+14,Patissier Bordeaux Lac,Bordeaux,Nouvelle-Aquitaine,France,standard,2021-01-15
+15,Patissier Lille Grand Place,Lille,Hauts-de-France,France,flagship,2015-09-01
+16,Patissier Villeneuve-d'Ascq,Villeneuve-d'Ascq,Hauts-de-France,France,standard,2019-03-01
+17,Patissier Nantes Centre,Nantes,Pays de la Loire,France,flagship,2017-02-01
+18,Patissier Saint-Herblain,Saint-Herblain,Pays de la Loire,France,standard,2020-11-01
+19,Patissier Strasbourg,Strasbourg,Grand Est,France,standard,2018-08-01
+20,Patissier Montpellier Polygone,Montpellier,Occitanie,France,standard,2019-01-15
+21,Patissier Nice Étoile,Nice,Provence-Alpes-Côte d'Azur,France,standard,2017-11-01
+22,Patissier Rennes Centre,Rennes,Bretagne,France,standard,2020-03-01
+23,Patissier Grenoble Grand Place,Grenoble,Auvergne-Rhône-Alpes,France,standard,2018-06-15
+24,Patissier Rouen Saint-Sever,Rouen,Normandie,France,standard,2019-04-01
+25,Patissier Tours,Tours,Centre-Val de Loire,France,standard,2021-03-01
+26,Patissier Clermont-Ferrand,Clermont-Ferrand,Auvergne-Rhône-Alpes,France,standard,2020-07-01
+27,Patissier Dijon,Dijon,Bourgogne-Franche-Comté,France,standard,2021-06-01
+28,Patissier Reims,Reims,Grand Est,France,standard,2021-09-15
+29,Patissier Outlet Serris,Serris,Île-de-France,France,outlet,2017-09-01
+30,Patissier Outlet Troyes,Troyes,Grand Est,France,outlet,2019-11-01

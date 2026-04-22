@@ -1,0 +1,5 @@
+channel_id,channel_name,channel_type
+1,online,digital
+2,in_store,physical
+3,marketplace,digital
+4,partner,digital
