@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__dashboard__get_product_performance"
+    ]
+  }
+}

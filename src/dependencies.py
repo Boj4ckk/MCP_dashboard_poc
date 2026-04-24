@@ -1,15 +1,15 @@
 from fastmcp.dependencies import Depends
-from config.settings import Settings
-from data.repositories.base import SalesRepositoryInterface
+from config.settings import settings
+from data.repositories.sales_repo_interface import SalesRepositoryInterface
 from services.sales.sales_services import SalesServices
 
 # ____________ Sales ___________________________
 
 def get_sales_repository() -> SalesRepositoryInterface:
-  
-  
+
+
     from infrastructure.duckdb_repo import DuckDBSalesRepository
-    return DuckDBSalesRepository(Settings.DUCK_PATH)
+    return DuckDBSalesRepository("C:\\Users\\BL211591\\Desktop\\MCP_dashboard_poc\\src\\data\\mock\\patissier.duckdb")
 
 
 def get_sales_service(

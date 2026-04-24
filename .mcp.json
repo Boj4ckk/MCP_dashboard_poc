@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dashboard": {
+      "command": "fastmcp",
+      "args": ["run", "C:/Users/BL211591/Desktop/MCP_dashboard_poc/src/server.py"],
+      "cwd": "C:/Users/BL211591/Desktop/MCP_dashboard_poc/src"
+    }
+  }
+}
