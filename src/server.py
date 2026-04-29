@@ -1,12 +1,12 @@
-
 from fastmcp import FastMCP
-from prefab_ui.components.charts import BarChart, ChartSeries
 from fastapi.responses import HTMLResponse
-from tools.data.sales import sales_mcp
-mcp = FastMCP("Dashboard")
+from src.tools.data import data_mcp
+from src.tools.ui.charts import charts_mcp
 
+mcp = FastMCP("dashboard")
 
-mcp.mount(sales_mcp)
+mcp.mount(data_mcp)
+mcp.mount(charts_mcp)
 
 if __name__ == "__main__":
     mcp.run()
